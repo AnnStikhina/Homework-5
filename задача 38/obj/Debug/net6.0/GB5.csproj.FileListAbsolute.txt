@@ -1,0 +1,20 @@
+C:\Users\user\Desktop\GB5\obj\Debug\net6.0\GB5.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\GB5\obj\Debug\net6.0\GB5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\GB5\obj\Debug\net6.0\GB5.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\GB5\obj\Debug\net6.0\GB5.AssemblyInfo.cs
+C:\Users\user\Desktop\GB5\obj\Debug\net6.0\GB5.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\GB5\задача 38\bin\Debug\net6.0\GB5.exe
+C:\Users\user\Desktop\GB5\задача 38\bin\Debug\net6.0\GB5.deps.json
+C:\Users\user\Desktop\GB5\задача 38\bin\Debug\net6.0\GB5.runtimeconfig.json
+C:\Users\user\Desktop\GB5\задача 38\bin\Debug\net6.0\GB5.dll
+C:\Users\user\Desktop\GB5\задача 38\bin\Debug\net6.0\GB5.pdb
+C:\Users\user\Desktop\GB5\задача 38\obj\Debug\net6.0\GB5.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\GB5\задача 38\obj\Debug\net6.0\GB5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\GB5\задача 38\obj\Debug\net6.0\GB5.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\GB5\задача 38\obj\Debug\net6.0\GB5.AssemblyInfo.cs
+C:\Users\user\Desktop\GB5\задача 38\obj\Debug\net6.0\GB5.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\GB5\задача 38\obj\Debug\net6.0\GB5.dll
+C:\Users\user\Desktop\GB5\задача 38\obj\Debug\net6.0\refint\GB5.dll
+C:\Users\user\Desktop\GB5\задача 38\obj\Debug\net6.0\GB5.pdb
+C:\Users\user\Desktop\GB5\задача 38\obj\Debug\net6.0\GB5.genruntimeconfig.cache
+C:\Users\user\Desktop\GB5\задача 38\obj\Debug\net6.0\ref\GB5.dll

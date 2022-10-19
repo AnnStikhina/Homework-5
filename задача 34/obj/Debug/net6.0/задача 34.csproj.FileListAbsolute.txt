@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\GB5\задача 34\bin\Debug\net6.0\задача 34.exe
+C:\Users\user\Desktop\GB5\задача 34\bin\Debug\net6.0\задача 34.deps.json
+C:\Users\user\Desktop\GB5\задача 34\bin\Debug\net6.0\задача 34.runtimeconfig.json
+C:\Users\user\Desktop\GB5\задача 34\bin\Debug\net6.0\задача 34.dll
+C:\Users\user\Desktop\GB5\задача 34\bin\Debug\net6.0\задача 34.pdb
+C:\Users\user\Desktop\GB5\задача 34\obj\Debug\net6.0\задача 34.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\GB5\задача 34\obj\Debug\net6.0\задача 34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\GB5\задача 34\obj\Debug\net6.0\задача 34.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\GB5\задача 34\obj\Debug\net6.0\задача 34.AssemblyInfo.cs
+C:\Users\user\Desktop\GB5\задача 34\obj\Debug\net6.0\задача 34.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\GB5\задача 34\obj\Debug\net6.0\задача 34.dll
+C:\Users\user\Desktop\GB5\задача 34\obj\Debug\net6.0\refint\задача 34.dll
+C:\Users\user\Desktop\GB5\задача 34\obj\Debug\net6.0\задача 34.pdb
+C:\Users\user\Desktop\GB5\задача 34\obj\Debug\net6.0\задача 34.genruntimeconfig.cache
+C:\Users\user\Desktop\GB5\задача 34\obj\Debug\net6.0\ref\задача 34.dll
